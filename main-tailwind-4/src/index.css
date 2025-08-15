@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "tailwindcss";
+@plugin "daisyui";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #8CBcBc;         /* Modo claro */
+  --color-primary-dark: #000000;    /* Modo oscuro */
+
+
+}
