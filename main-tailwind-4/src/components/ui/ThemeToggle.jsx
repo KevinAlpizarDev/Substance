@@ -25,6 +25,16 @@ const ThemeToggle = ({ className = '' }) => {
 
   return (
     <label className={`swap swap-rotate ${className}`}>
+     
+     
+     <div className='absolute top-0 h-13 bg-white  '>
+
+
+     </div>
+     
+
+
+     
       {/* checkbox que controla el estado */}
       <input 
         type="checkbox"

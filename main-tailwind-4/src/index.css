@@ -9,4 +9,47 @@
   --color-primary-dark: #000000;    /* Modo oscuro */
 
 
+
+
+
+  /* PRIMARIOS (basados en tu turquesa #8CBCBC) */
+ --color-primary-100: #E8F4F4;    /* Muy claro - casi blanco con tinte turquesa */
+  --color-primary-200: #B4D4D4;    /* Claro - turquesa suave */
+  --color-primary-300: #8CBCBC;    /* Tu color base - turquesa medio */
+  
+  /* SECUNDARIOS (grises azulados que complementan) */
+  --color-secondary-100: #F8FAFA;  /* Muy claro - gris casi blanco */
+  --color-secondary-200: #E2E8E8;  /* Claro - gris suave */
+  --color-secondary-300: #B8C5C5;  /* Medio - gris azulado */
+  
+  /* TERCIARIOS (azules que armonizan) */
+  --color-tertiary-100: #EBF8FF;   /* Muy claro - azul cielo suave */
+  --color-tertiary-200: #BEE3F8;   /* Claro - azul cielo */
+  --color-tertiary-300: #90CDF4;   /* Medio - azul vibrante */
+
+  /* 🌙 MODO OSCURO - Gradación de claro a oscuro */
+  
+  /* PRIMARIOS OSCUROS (cyans brillantes para contraste) */
+  --color-primary-100-dark: #4ECDC4;  /* Claro - cyan brillante */
+  --color-primary-200-dark: #26A69A;  /* Medio - cyan más intenso */
+  --color-primary-300-dark: #00695C;  /* Oscuro - cyan profundo */
+  
+  /* SECUNDARIOS OSCUROS (grises que van de claro a oscuro) */
+  --color-secondary-100-dark: #4A5568;  /* Claro - gris medio */
+  --color-secondary-200-dark: #2D3748;  /* Medio - gris oscuro */
+  --color-secondary-300-dark: #1A202C;  /* Oscuro - gris muy oscuro */
+  
+  /* TERCIARIOS OSCUROS (púrpuras/azules oscuros) */
+  --color-tertiary-100-dark: #805AD5;   /* Claro - púrpura brillante */
+  --color-tertiary-200-dark: #553C9A;   /* Medio - púrpura medio */
+  --color-tertiary-300-dark: #322659;   /* Oscuro - púrpura profundo */
+
+
+
+
+
+
+
+
+
 }

@@ -3,5 +3,6 @@
   "welcome": "Welcome to our app!",
   "greeting": "Hello, how are you?",
   "changeToSpanish": "Change language to Spanish",
-  "changeToEnglish": "Change language to English"
+  "changeToEnglish": "Change language to English",
+  "bilingual": "bilingual"
 }
